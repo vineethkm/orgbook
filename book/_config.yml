@@ -10,7 +10,7 @@ latex:
     
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/rahuketu86/orgbook
+  url: https://github.com/vineethkm/orgbook
   path_to_book: book
 
 html:
